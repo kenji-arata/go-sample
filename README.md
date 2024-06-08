@@ -1,2 +1,2 @@
-# go-sample
-go練習用リポジトリ
+# 概要
+以下のudemyを受けて作成したtodoアプリ
